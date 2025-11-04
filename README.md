@@ -1,83 +1,36 @@
-# DD SERVICE - Sito Web
+# Studio
 
-🌐 **Sito per azienda di manutenzione impianti termici, industriali e ospedalieri**
+Studio is a [Tailwind Plus](https://tailwindcss.com/plus) site template built using [Tailwind CSS](https://tailwindcss.com) and [Next.js](https://nextjs.org).
 
----
+## Getting started
 
-## 🚀 Avvio Rapido
+To get started with this template, first install the npm dependencies:
 
 ```bash
-cd C:\Users\godri\Desktop\ClaudeCode\DDservice\tailwind-plus-studio\studio-js
+npm install
+```
+
+Next, run the development server:
+
+```bash
 npm run dev
 ```
 
-**Visualizza il sito:** http://localhost:3000
+Finally, open [http://localhost:3000](http://localhost:3000) in your browser to view the website.
 
----
+## Customizing
 
-## 📁 File Importanti
+You can start editing this template by modifying the files in the `/src` folder. The site will auto-update as you edit these files.
 
-- **DOCUMENTAZIONE_PROGETTO.md** → Documentazione completa (LEGGI PRIMA!)
-- **INFORMAZIONI_CLIENTE.md** → Questionario da inviare al cliente
-- **studio-js/** → Codice del sito (Next.js)
+## License
 
----
+This site template is a commercial product and is licensed under the [Tailwind Plus license](https://tailwindcss.com/plus/license).
 
-## ✅ Cosa è Stato Fatto (04/11/2025)
+## Learn more
 
-✔ Homepage personalizzata con servizi DD Service
-✔ Pagina "Chi Siamo" con storia di Diego D'Avino
-✔ Pagina Contatti con form preventivi
-✔ Logo "DD Service"
-✔ Colore brand blu #00003b applicato
-✔ Traduzione completa in italiano
-✔ Menu navigazione italiano
+To learn more about the technologies used in this site template, see the following resources:
 
----
-
-## ⏳ Da Fare Prossimamente
-
-1. **Raccogliere info cliente** (INFORMAZIONI_CLIENTE.md)
-2. Sostituire logo e immagini placeholder
-3. Inserire progetti reali nel portfolio
-4. Configurare invio email form contatti
-5. Creare articoli blog/news
-6. Deploy su hosting (Vercel/Netlify)
-7. Acquistare dominio (ddservice.it)
-
----
-
-## 🎨 Colore Brand
-
-**HEX:** #00003b (blu scuro)
-**Utilizzo:** Sfondi, pulsanti, bordi, logo
-
----
-
-## 📞 Info Cliente
-
-**Azienda:** DD Service
-**Titolare:** Diego D'Avino (classe 2000)
-**Anno fondazione:** 2019
-**Servizi:**
-- Impianti Termici
-- Impianti Industriali
-- Impianti Ospedalieri
-- Manutenzione Programmata
-
-**Email:** info@ddservice.it
-**Assistenza:** assistenza@ddservice.it
-
----
-
-## 🛠️ Tecnologie
-
-- Next.js 15.4.4
-- React 19
-- Tailwind CSS v4
-- Framer Motion
-- JavaScript
-
----
-
-**Per dettagli completi:** Leggi `DOCUMENTAZIONE_PROGETTO.md`
+- [Tailwind CSS](https://tailwindcss.com/docs) - the official Tailwind CSS documentation
+- [Next.js](https://nextjs.org/docs) - the official Next.js documentation
+- [Framer Motion](https://www.framer.com/docs/) - the official Framer Motion documentation
+- [MDX](https://mdxjs.com/) - the official MDX documentation
