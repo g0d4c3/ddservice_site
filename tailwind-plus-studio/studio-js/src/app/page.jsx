@@ -150,16 +150,16 @@ function Services() {
             <ListItem title="Impianti Industriali">
               Progettazione e manutenzione di impianti per il settore industriale.
               Montaggio e smontaggio di macchinari complessi con personale
-              specializzato e attrezzature all'avanguardia.
+              specializzato e attrezzature all&apos;avanguardia.
             </ListItem>
             <ListItem title="Impianti Ospedalieri">
               Servizi dedicati al settore sanitario con particolare attenzione
               alle normative vigenti. Manutenzione programmata e interventi
-              d'urgenza per garantire continuità operativa.
+              d&apos;urgenza per garantire continuità operativa.
             </ListItem>
             <ListItem title="Manutenzione Programmata">
               Contratti di manutenzione personalizzati per prevenire guasti e
-              ottimizzare l'efficienza energetica. Assistenza continua e
+              ottimizzare l&apos;efficienza energetica. Assistenza continua e
               reportistica dettagliata degli interventi.
             </ListItem>
           </List>
@@ -200,7 +200,7 @@ export default async function Home() {
         className="mt-24 sm:mt-32 lg:mt-40"
         client={{ name: 'Cliente Soddisfatto', logo: logoPhobiaDark }}
       >
-        DD Service ha dimostrato grande professionalità nell'installazione del nostro
+        DD Service ha dimostrato grande professionalità nell&apos;installazione del nostro
         impianto termico. Intervento rapido, personale qualificato e assistenza
         post-vendita eccellente. Consigliati!
       </Testimonial>

@@ -50,7 +50,7 @@ function Culture() {
             e dedizione.
           </GridListItem>
           <GridListItem title="Innovazione" invert>
-            Utilizziamo tecnologie all'avanguardia e metodologie moderne per
+            Utilizziamo tecnologie all&apos;avanguardia e metodologie moderne per
             garantire efficienza energetica e prestazioni ottimali degli impianti.
           </GridListItem>
         </GridList>
@@ -160,9 +160,9 @@ export default async function About() {
         </p>
         <div className="mt-10 max-w-2xl space-y-6 text-base">
           <p>
-            Fondata nel 2019, DD Service è guidata da Diego D'Avino, classe 2000,
+            Fondata nel 2019, DD Service è guidata da Diego D&apos;Avino, classe 2000,
             un professionista giovane e dinamico che ha trasformato la sua passione
-            per gli impianti in un'azienda solida e affidabile. Con una formazione
+            per gli impianti in un&apos;azienda solida e affidabile. Con una formazione
             continua e un costante aggiornamento sulle ultime tecnologie del settore,
             Diego porta innovazione e freschezza in un campo tradizionale.
           </p>
