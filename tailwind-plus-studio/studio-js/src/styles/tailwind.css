@@ -1,0 +1,56 @@
+@import 'tailwindcss';
+@import './base.css';
+@import './typography.css' layer(components);
+
+@theme {
+  --text-*: initial;
+  --text-xs: 0.75rem;
+  --text-xs--line-height: 1rem;
+  --text-sm: 0.875rem;
+  --text-sm--line-height: 1.5rem;
+  --text-base: 1rem;
+  --text-base--line-height: 1.75rem;
+  --text-lg: 1.125rem;
+  --text-lg--line-height: 1.75rem;
+  --text-xl: 1.25rem;
+  --text-xl--line-height: 2rem;
+  --text-2xl: 1.5rem;
+  --text-2xl--line-height: 2.25rem;
+  --text-3xl: 1.75rem;
+  --text-3xl--line-height: 2.25rem;
+  --text-4xl: 2rem;
+  --text-4xl--line-height: 2.5rem;
+  --text-5xl: 2.5rem;
+  --text-5xl--line-height: 3rem;
+  --text-6xl: 3rem;
+  --text-6xl--line-height: 3.5rem;
+  --text-7xl: 4rem;
+  --text-7xl--line-height: 4.5rem;
+
+  --radius-4xl: 2.5rem;
+
+  --font-sans:
+    Mona Sans, ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+  --font-display:
+    Mona Sans, ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji',
+    'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+
+  --font-display--font-variation-settings: 'wdth' 125;
+
+  --font-display-length: 2;
+
+  /* DD Service Brand Colors */
+  --color-ddblue-50: #e6e6f0;
+  --color-ddblue-100: #ccccdb;
+  --color-ddblue-200: #9999b8;
+  --color-ddblue-300: #666694;
+  --color-ddblue-400: #333371;
+  --color-ddblue-500: #00003b;
+  --color-ddblue-600: #000030;
+  --color-ddblue-700: #000024;
+  --color-ddblue-800: #000018;
+  --color-ddblue-900: #00000c;
+  --color-ddblue-950: #000006;
+}
