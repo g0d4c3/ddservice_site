@@ -1,6 +1,0 @@
-{
-  "buildCommand": "cd tailwind-plus-studio/studio-js && npm run build",
-  "devCommand": "cd tailwind-plus-studio/studio-js && npm run dev",
-  "installCommand": "cd tailwind-plus-studio/studio-js && npm install",
-  "outputDirectory": "tailwind-plus-studio/studio-js/.next"
-}
